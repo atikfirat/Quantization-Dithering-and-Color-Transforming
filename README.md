@@ -17,11 +17,11 @@ Floyd-Steinberg dithering algorithm attempts to compress a picture to a smaller 
 * `python hough_transform.py`
 
 ## Results
-![](https://github.com/atikfirat/Quantization-Dithering-and-Color-Transform/blob/main/Results/Quantization%20Results/Quantization_q%3D32.png)
+![](https://github.com/atikfirat/Quantization-Dithering-and-Color-Transforming/blob/main/Results/Quantization%20Results/Quantization_q%3D32.png)
 
 Quantization q = 32
 
-![](https://github.com/atikfirat/Quantization-Dithering-and-Color-Transforming/blob/main/Results/Quantization%20Results/Quantization_q%3D32.png)
+![](https://github.com/atikfirat/Quantization-Dithering-and-Color-Transforming/blob/main/Results/Dithering%20Results/FS_Dithering_q%3D32.png)
 
 Dithering q = 32
 
