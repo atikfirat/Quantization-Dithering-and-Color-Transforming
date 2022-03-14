@@ -16,7 +16,18 @@ Floyd-Steinberg dithering algorithm attempts to compress a picture to a smaller 
 ## Usage
 * `python hough_transform.py`
 
+## Results
+![](https://github.com/atikfirat/Quantization-Dithering-and-Color-Transform/blob/main/Results/Quantization%20Results/Quantization_q%3D32.png)
 
+Quantization q = 32
+
+![](https://github.com/atikfirat/Quantization-Dithering-and-Color-Transforming/blob/main/Results/Quantization%20Results/Quantization_q%3D32.png)
+
+Dithering q = 32
+
+![](https://github.com/atikfirat/Quantization-Dithering-and-Color-Transforming/blob/main/Results/Color%20Transformation%20Results/1.png)
+
+Source image: Scotland House – Target image: Scotland Plain
 
 ## References
 https://medium.com/analytics-vidhya/exploiting-the-floyd-steinberg-algorithm-for-image-dithering-in-r-c19c8008fc99
